@@ -7,3 +7,4 @@ Every script is commented so you can get a better idea what it does.
 I currently have two directories:
   1. Monitoring - which contains a script that checks services
   2. WebApp - which contains scripts that deploy simple HTML webpages using different templates
+
