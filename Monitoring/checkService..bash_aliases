@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script checks if a process is running or not. If the process is stopped, the script will try to start and enable the process.
+#This script checks if a given process is running or not. If the process is stopped, the script will try to start and enable the process.
 
 #Give a message if no argument is given
 if [ "$#" -eq 0 ] ; then
