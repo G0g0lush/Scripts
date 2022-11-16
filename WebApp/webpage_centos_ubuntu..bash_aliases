@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #This script installs httpd, wget and unzip, on CentOS and Ubuntu distributions, which it will then use to create a webpage using a template from https://www.tooplate.com. 
+#This can be executed on remote servers using web_deply.sh script. (you can find it in the repo) 
 
 #Variable Declaration
 URL='https://www.tooplate.com/zip-templates/2102_constructive.zip'
