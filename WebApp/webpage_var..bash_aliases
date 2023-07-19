@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Remember to open port 80 to see the website.
 #This script installs httpd, wget and unzip which it will then use to create a webpage using a template from https://www.tooplate.com. 
 
 # Variable Declaration
